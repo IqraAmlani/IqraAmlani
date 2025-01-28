@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IqraAmlani/Projects.git](https://github.com/IqraAmlani/Projects.git)
 
-- 💬 Ask me about **Python, C, SQL, algorithms, data structures, database management, and problem-solving techniques in computing science.**
+- 💬 Ask me about **Python, C, Java, SQL, algorithms, data structures, database management, and problem-solving techniques in computing science.**
 
 - 📫 How to reach me **iamlani@ualberta.ca**
 
