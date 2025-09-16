@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Iqra Amlani</h1>
 <h3 align="center">Enthusiastic Computing Science student exploring advanced concepts in data structures, algorithms, and database management. Driven by a passion for solving complex problems and creating impactful solutions.</h3>
 
-- 🌱 I’m currently learning **about MongoDB: Exploring NoSQL databases, data modeling, and efficient data storage and retrieval techniques.**
+- 🌱 Skilled in **Python, Java, C, C++, SQL, and MongoDB, with experience in object-oriented programming, database design, and backend development using frameworks such as Django. Familiar with web technologies (HTML, CSS, JavaScript), cloud services (Firebase), and Linux/Ubuntu environments.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IqraAmlani/Projects.git](https://github.com/IqraAmlani/Projects.git)
+- 👨‍💻 MoodSpace Application project: [https://github.com/IqraAmlani/Projects.git](https://github.com/IqraAmlani/Projects.git)
 
-- 💬 Ask me about **Python, C, Java, SQL, algorithms, data structures, database management, and problem-solving techniques in computing science.**
+- 💬 Ask me about **programming, database management, algorithms, data structures, web development, and problem-solving techniques in computing science.**
 
 - 📫 How to reach me **iamlani@ualberta.ca**
 
