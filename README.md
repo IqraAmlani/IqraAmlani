@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iqra Amlani</h1>
 <h3 align="center">Enthusiastic Computing Science student exploring advanced concepts in data structures, algorithms, and database management. Driven by a passion for solving complex problems and creating impactful solutions.</h3>
 
-- 🌱 Skilled in **Python, Java, C, C++, SQL, and MongoDB, with experience in object-oriented programming, database design, and backend development using frameworks such as Django. Familiar with web technologies (HTML, CSS, JavaScript), cloud services (Firebase), and Linux/Ubuntu environments.**
-
-- 👨‍💻 MoodSpace Application project: [https://github.com/IqraAmlani/Projects.git](https://github.com/IqraAmlani/Projects.git)
+- 🌱 Skilled in **Python, Java, JavaScript, Django, React, .NET, DevOps, Android Studio, C, C++, SQL, and MongoDB, with experience in object-oriented programming, database design, and backend development using frameworks such as Django. Familiar with web technologies (HTML, CSS, JavaScript), cloud services (Firebase), and Linux/Ubuntu environments.**
 
 - 💬 Ask me about **programming, database management, algorithms, data structures, web development, and problem-solving techniques in computing science.**
 
